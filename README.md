@@ -9,4 +9,4 @@ Get familiar with ERC20 token contract, this small project answered these questi
 
 3) How user address enter token into a contract?
 
-4) How to burn token?
+4) How to burn token?
